@@ -1,1 +1,2 @@
-# C23-creating-Blue-prints-class-concept-
+# staticSquare
+A static square made using Matter.js physics engine
